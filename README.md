@@ -25,6 +25,7 @@ Our problem comes under SDG Goal 3: Good Health and Well-being.
 ***Improvment after mentorship***
 
 **Added a chatbot** used openai api chatbase.co for integrating a chatbot that is empathetic and friendly.
+![alt text]([http://url/to/img.png](https://github.com/s-sweta/Emote-Care/blob/2311364a9a40a5df9f111dab785789aea06ed317/images/website_with_chatbot.png))
 
 **Improved Accracy** added more data which improved accuracy from 63% to 67%.
 
