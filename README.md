@@ -11,9 +11,12 @@ Our platform addresses the stigma surrounding mental health with accessible and 
 Our problem comes under SDG Goal 3: Good Health and Well-being.
 
 # Key Features
--*Destigmatizing Mental Health:* Accessible and affordable online platform for therapy sessions with scheduling options .
+-*Destigmatizing Mental Health:* Accessible and affordable online platform for therapy sessions with scheduling options.
+
 -*Real-time Emotional Insights:* AI-driven facial emotion detection providing therapists with real-time data for better understanding, countering any loss due to virtual space .
+
 -*Personalized Care:* Ability to track emotional trends over time, allowing therapists to tailor treatment plans and interventions.
+
 -*Extended Website Features:* Access to a chatbot, self reflect sessions, weekly report, therapist allocation, session scheduling, and mental health resources, for overall well being.
 
 ## Improvment after mentorship
