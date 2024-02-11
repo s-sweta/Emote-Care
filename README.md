@@ -32,20 +32,20 @@ Our problem comes under SDG Goal 3: Good Health and Well-being.
 https://www.kaggle.com/datasets/msambare/fer2013 <br>
 https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
 
-#Tech Stack
-##AI/ML
+# Tech Stack
+## AI/ML
 
-Framework: TensorFlow; ModeI: CNN 
+*Framework:* TensorFlow; *Model:* CNN 
 
 Worked on CNN and VGG16 models. Combined two datasets. While the CNN model offers much better accuracy, VGG16 gives a simpler architecture with fewer trainable parameters. But we proceeded with CNN as we focus more on the accuracy.
 
-Model Interface: JavaScript Webcam Capture
+*Model Interface:* JavaScript Webcam Capture
 
 Website Interface
 
 HTML, CSS, Javascript 
 
-#Future Scope
+# Future Scope
 
 **Improving accuracy and architecture:** WIll be improving the efficiency of the model by training it on the data gradually received from the users.
 
