@@ -1,6 +1,8 @@
 ## EmoteCare
-**Problem Statement**
+
 *Website:* https://s-sweta.github.io/Emote-Care/
+
+**Problem Statement**
 
 Many individuals hesitate to seek therapy due to societal taboos and fear of judgment, while personalized one-on-one therapy sessions are often inaccessible and financially burdensome. This leads to prolonged suffering, a lower quality of life, with depression and suicide in extreme cases.
 
