@@ -25,9 +25,29 @@ Our problem comes under SDG Goal 3: Good Health and Well-being.
 
 ![alt text](https://github.com/s-sweta/Emote-Care/blob/2311364a9a40a5df9f111dab785789aea06ed317/images/website_with_chatbot.png)
 
--*Improved Accracy* added more data which improved accuracy from 63% to 67%.
+-*Improved Accracy:* Combined another dataset with the previous one which improved accuracy from 63% to 67%.
 
 
 *Dataset information* <br>
 https://www.kaggle.com/datasets/msambare/fer2013 <br>
 https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+
+#Tech Stack
+##AI/ML
+
+Framework: TensorFlow; ModeI: CNN 
+
+Worked on CNN and VGG16 models. Combined two datasets. While the CNN model offers much better accuracy, VGG16 gives a simpler architecture with fewer trainable parameters. But we proceeded with CNN as we focus more on the accuracy.
+
+Model Interface: JavaScript Webcam Capture
+
+Website Interface
+
+HTML, CSS, Javascript 
+
+#Future Scope
+
+**Improving accuracy and architecture:** WIll be improving the efficiency of the model by training it on the data gradually received from the users.
+
+
+**Community Engagement:** Partnering with advocacy groups and organizations to reduce mental health stigma and promote awareness of online therapy options.
